@@ -1,9 +1,3 @@
-# mahdi
+Mahdi
 
-Nice work
-
-# here is a heading
-
-# and here is another heading
-
-conflict test
+[Github cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
